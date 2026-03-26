@@ -17,10 +17,6 @@
 ### 🌴 SOBRE MIM
 Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação. Tenho foco em front-end, criando interfaces modernas, interativas e com forte atenção à experiência do usuário. Busco evoluir para full stack, sempre trazendo criatividade e uma visão diferente para cada projeto.
 
-* 🚀 **Projetos Atuais:** Smart Clinic System.
-* 🛠️ **Foco:** React, Angular e JavaScript Moderno.
-* 🎨 **Estética:** Vaporwave & High-end Web Design.
-
 ---
 
 ### 📊 MINHAS STACKS
@@ -41,9 +37,10 @@ Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistem
   </a>
   <a href="https://gcbieu.github.io/meu_portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF00E4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      <a href="https://www.linkedin.com/in/gcbieu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1500&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafted+with+Passion" alt="Crafted with Passion" />
-  <a href="https://www.linkedin.com/in/gcbieu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
