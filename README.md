@@ -23,10 +23,13 @@ Trago a precisão do setor **Administrativo** para a construção de interfaces 
 
 ---
 
-### 📊 My Stats
+### 📊 My Stats### 📊 My Stats
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gcbieu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcbieu&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcbieu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de gcbieu" />
+  
+  <br>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcbieu&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Linguagens mais usadas por gcbieu" />
 </div>
 
 <br>
@@ -45,11 +48,11 @@ Trago a precisão do setor **Administrativo** para a construção de interfaces 
 
   ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gcbieu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="http://visionary.dev">
+  <a href="https://gcbieu.github.io/meu_portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF00E4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gcbieu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
