@@ -4,12 +4,11 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Gabriel+Oliveira" alt="Gabriel Oliveira" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&duration=1&pause=0&color=FF00FF&center=true&vCenter=true&width=500&lines=GABRIEL+OLIVEIRA" alt="Gabriel Oliveira" />
   
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=1&pause=0&color=FF00FF&center=true&vCenter=true&width=435&lines=Front-end+Developer" alt="Front-end Developer" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&linesFront-end+Developer" alt="Front-end Developer" />
   <br>
 </div>
 
