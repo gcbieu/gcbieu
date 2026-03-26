@@ -13,6 +13,7 @@
 </div>
 
 <br><br>
+
 ---
 ### SOBRE MIM
 Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação. Tenho foco em front-end, criando interfaces modernas, interativas e com forte atenção à experiência do usuário. Busco evoluir para full stack, sempre trazendo criatividade e uma visão diferente para cada projeto.
