@@ -6,9 +6,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Gabriel+Oliveira" alt="Gabriel Oliveira (Typing)" />
   
-  <br>
-
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00000000&height=50&text=Front-end%20Developer&fontSize=28&fontColor=FF00FF&animation=fadeIn&fontAlignY=50" alt="Front-end Developer (FadeIn)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Front-end+Developer" alt="Front-end Developer (Typing)" />
 
   <br>
 
