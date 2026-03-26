@@ -4,8 +4,6 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Gabriel+Oliveira" alt="Gabriel Oliveira (Typing)" />
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Front-end" alt="Front-end (Typing)" />
 
   <br>
