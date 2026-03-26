@@ -1,29 +1,33 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=ffccf0&height=250&section=header&text=GABRIEL%20OLIVEIRA&fontSize=70&animation=fadeIn&fontAlignY=35&desc=FRONT-END%20DEVELOPER&descAlignY=55&descSize=20&fontColor=333" width="100%" />
+  <img src="LOGO.png" alt="Gabriel Oliveira Logo" width="300" />
 
   <br>
 
-  <img src="logo.png" width="300" style="filter: drop-shadow(0 0 20px #ff00ff);" />
-
-  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Gabriel+Oliveira" alt="Typing SVG" />
+  
+  <br>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Front-end+Developer" alt="Typing SVG" />
+
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1500&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafted+with+Passion" alt="Crafted with Passion" />
 
 </div>
 
 ---
 
-### 🌴 Aesthetic Lab
-Estou em plena transição de carreira, trazendo a organização do **Administrativo** para o caos criativo do **Front-end**. Meu foco é transformar protótipos em experiências imersivas.
+### 🌴 Aesthetic Lab | Transição de Carreira
+Trago a precisão do setor **Administrativo** para a construção de interfaces modernas e imersivas. Atualmente focado no ecossistema Front-end, com o objetivo de me tornar um desenvolvedor Full-stack completo.
 
-* 🚀 **Objetivo:** Full-stack Developer
-* 🛠️ **Foco Atual:** React, Angular e interfaces responsivas.
-* 🎨 **Design:** UI/UX com foco em estéticas Vaporwave e Cyberpunk.
+* 🚀 **Projetos Atuais:** Smart Clinic System.
+* 🛠️ **Foco:** React, Angular e JavaScript Moderno.
+* 🎨 **Estética:** Vaporwave & High-end Web Design.
 
 ---
 
-### 📊 My Stats & Tech
+### 📊 My Stats
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gcbieu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcbieu&layout=compact&langs_count=7&theme=radical" />
