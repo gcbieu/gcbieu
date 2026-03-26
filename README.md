@@ -7,8 +7,9 @@
   <img src="logo.png" width="300" style="filter: drop-shadow(0 0 20px #ff00ff);" />
 
   <br>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Gabriel+Oliveira" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Front-end+Developer" alt="Typing SVG" />
+  </div>
    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Crafted+with+Passion;Made+by+God" alt="Typing SVG" />
 
 </div>
