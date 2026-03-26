@@ -43,7 +43,7 @@ Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistem
   </a>
 </div>
 
-    <br>
+
+    
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1500&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafted+with+Passion" alt="Crafted with Passion" />
-
