@@ -14,8 +14,8 @@
 
 ---
 
-### 🌴 Aesthetic Lab | Transição de Carreira
-Trago a precisão do setor **Administrativo** para a construção de interfaces modernas e imersivas. Atualmente focado no ecossistema Front-end, com o objetivo de me tornar um desenvolvedor Full-stack completo.
+### 🌴 SOBRE MIM
+Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação. Tenho foco em front-end, criando interfaces modernas, interativas e com forte atenção à experiência do usuário. Busco evoluir para full stack, sempre trazendo criatividade e uma visão diferente para cada projeto.
 
 * 🚀 **Projetos Atuais:** Smart Clinic System.
 * 🛠️ **Foco:** React, Angular e JavaScript Moderno.
@@ -23,15 +23,7 @@ Trago a precisão do setor **Administrativo** para a construção de interfaces 
 
 ---
 
-### 📊 My Stats### 📊 My Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcbieu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de gcbieu" />
-  
-  <br>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcbieu&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Linguagens mais usadas por gcbieu" />
-</div>
-
+### 📊 MINHAS STACKS
 <br>
 
 <div align="center">
@@ -43,16 +35,15 @@ Trago a precisão do setor **Administrativo** para a construção de interfaces 
 </div>
 
  <br>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1500&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafted+with+Passion" alt="Crafted with Passion" />
 
   ---
-
+<div align="center">
   </a>
   <a href="https://gcbieu.github.io/meu_portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF00E4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
-<div align="center">
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1500&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafted+with+Passion" alt="Crafted with Passion" />
   <a href="https://www.linkedin.com/in/gcbieu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
