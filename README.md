@@ -4,7 +4,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 ---
 ### SOBRE MIM
