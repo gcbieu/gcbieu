@@ -1,4 +1,4 @@
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=BLACK&center=true&vCenter=true&width=435&lines=OLÁ+MUNDO" alt="OLÁ MUNDO (Typing)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=BLACK&center=true&vCenter=true&width=435&lines=HELLO,+WORD!_" alt="HELLO, WORD!_ (Typing)" />
 
   <br>
 
