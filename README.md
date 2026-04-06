@@ -1,4 +1,6 @@
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=BLACK&center=true&vCenter=true&width=435&lines=HELLO,+WORD!_" alt="HELLO, WORD!_ (Typing)" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=HELLO,+WORLD!" alt="Typing SVG" />
+</p>
 
   <br>
 
