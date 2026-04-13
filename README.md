@@ -58,16 +58,6 @@ Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistem
         <br />
         <a href="https://github.com/gcbieu/projeto-areispro">📂 Repositório</a>
       </td>
-        <td width="50%" align="center">
-        <img src="https://github.com/gcbieu/meu_portfolio/blob/main/imagens/LOGO.png?raw=true" alt="Meu Portfólio"/>
-        <br />
-        <b>AREIS PRO</b>
-        <br />
-        <sub>Portfólio Pessoal.</sub>
-        <br />
-        <a href="https://github.com/gcbieu/meu_portfolio">📂 Repositório</a>
-      </td>
-    </tr>
   </table>
 </div>
   ---
