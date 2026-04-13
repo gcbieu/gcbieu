@@ -35,7 +35,7 @@ Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistem
 
 ---
 
-### Projetos em Destaque
+### PROJETOS EM DESTAQUE
 
 <div align="center">
   <table border="0">
