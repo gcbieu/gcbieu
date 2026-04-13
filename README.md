@@ -41,7 +41,7 @@ Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistem
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github.com/gcbieu/PORTFOLIO/blob/main/imagens/Capa-Sistema-Clinica.png?raw=true" width="100%" alt="Smart Clinic"/>
+        <img src="https://github.com/gcbieu/meu_portfolio/blob/main/imagens/Capa%20Sistema-Clinica.png?raw=true" alt="Smart Clinic"/>
         <br />
         <b>Smart Clinic System</b>
         <br />
@@ -50,13 +50,22 @@ Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistem
         <a href="https://github.com/gcbieu/sistema-clinica">📂 Repositório</a>
       </td>
       <td width="50%" align="center">
-        <img src="https://github.com/gcbieu/projeto-areispro/blob/main/imagens/LOGIN.jpeg?raw=true" alt="Areis Pro"/>
+        <img src="https://github.com/gcbieu/meu_portfolio/blob/main/imagens/capa_areispro.png?raw=true" alt="Areis Pro"/>
         <br />
         <b>AREIS PRO</b>
         <br />
         <sub>Automação de relatórios fotográficos em PDF.</sub>
         <br />
         <a href="https://github.com/gcbieu/projeto-areispro">📂 Repositório</a>
+      </td>
+        <td width="50%" align="center">
+        <img src="https://github.com/gcbieu/meu_portfolio/blob/main/imagens/LOGO.png?raw=true" alt="Meu Portfólio"/>
+        <br />
+        <b>AREIS PRO</b>
+        <br />
+        <sub>Portfólio Pessoal.</sub>
+        <br />
+        <a href="https://github.com/gcbieu/meu_portfolio">📂 Repositório</a>
       </td>
     </tr>
   </table>
