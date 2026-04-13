@@ -28,10 +28,39 @@ Olá, eu sou Gabriel Oliveira. Estudante de Análise e Desenvolvimento de Sistem
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
  <br>
 
+---
+
+### Projetos em Destaque
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github.com/gcbieu/PORTFOLIO/blob/main/imagens/Capa-Sistema-Clinica.png?raw=true" width="100%" alt="Smart Clinic"/>
+        <br />
+        <b>Smart Clinic System</b>
+        <br />
+        <sub>Full Stack SPA com Vue.js, Node e Integração de APIs.</sub>
+        <br />
+        <a href="https://github.com/gcbieu/sistema-clinica">📂 Repositório</a>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github.com/gcbieu/projeto-areispro/blob/main/imagens/LOGIN.jpeg?raw=true" alt="Areis Pro"/>
+        <br />
+        <b>AREIS PRO</b>
+        <br />
+        <sub>Automação de relatórios fotográficos em PDF.</sub>
+        <br />
+        <a href="https://github.com/gcbieu/projeto-areispro">📂 Repositório</a>
+      </td>
+    </tr>
+  </table>
+</div>
   ---
 <div align="center">
   </a>
