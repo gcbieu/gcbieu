@@ -7,7 +7,6 @@
 <br>
 
 ---
-### SOBRE MIM
 <div align="center">
 <h1>Olá mundo, eu sou Gabriel Oliveira 🤖</h1>
 <p>Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação. Tenho foco em Front-end, atualmente mergulhado no ecossistema JavaScript.
